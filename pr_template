@@ -1,0 +1,11 @@
+## What?
+Added support for authentication. #JIRA-123.
+
+## Why?
+These changes complete the user login and account creation experience. See #JIRA-123 for more information.
+
+## How? (Optional)
+This includes a migration, model and controller for user authentication. I'm using Devise to do the heavy lifting. I ran Devise migrations and those are included here.
+
+## Additional Information (Optional)
+Test creds: admin@admin.com, 1234567
